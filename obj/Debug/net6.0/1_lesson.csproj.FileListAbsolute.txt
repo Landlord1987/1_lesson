@@ -1,0 +1,15 @@
+C:\_VisualStudio\C#\1_lesson\bin\Debug\net6.0\1_lesson.exe
+C:\_VisualStudio\C#\1_lesson\bin\Debug\net6.0\1_lesson.deps.json
+C:\_VisualStudio\C#\1_lesson\bin\Debug\net6.0\1_lesson.runtimeconfig.json
+C:\_VisualStudio\C#\1_lesson\bin\Debug\net6.0\1_lesson.dll
+C:\_VisualStudio\C#\1_lesson\bin\Debug\net6.0\1_lesson.pdb
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\1_lesson.csproj.AssemblyReference.cache
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\1_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\1_lesson.AssemblyInfoInputs.cache
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\1_lesson.AssemblyInfo.cs
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\1_lesson.csproj.CoreCompileInputs.cache
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\1_lesson.dll
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\refint\1_lesson.dll
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\1_lesson.pdb
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\1_lesson.genruntimeconfig.cache
+C:\_VisualStudio\C#\1_lesson\obj\Debug\net6.0\ref\1_lesson.dll
